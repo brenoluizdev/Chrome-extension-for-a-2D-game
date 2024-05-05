@@ -7,7 +7,7 @@ else init();
 
 function init() {
 
-    let github = "%cGitHub: https://github.com/OBlackBL/";
+    let github = "%cGitHub: https://github.com/brenoluizdev/";
     console.log("%cBONKTOOLS", "font-family: 'Bebas Neue'; color: #FFF; font-size:3rem;");
     console.log("%cBLACKBL", "font-family: 'Bebas Neue'; color: #000; font-size:3rem;");
     console.log(github, "font-family: 'Bebas Neue'; color: #fb0000; font-size:1.5rem;");
