@@ -1,0 +1,9 @@
+// Criado & desenvolvido por BlackBL
+// Todos os direitos autorais reservados
+
+if (document.readyState == "loading") document.addEventListener('DOMContentLoaded', function);
+else function();
+
+function function() {
+
+}
